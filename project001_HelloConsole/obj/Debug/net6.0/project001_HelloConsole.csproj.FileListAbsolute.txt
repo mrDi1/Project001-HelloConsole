@@ -1,0 +1,15 @@
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\bin\Debug\net6.0\project001_HelloConsole.exe
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\bin\Debug\net6.0\project001_HelloConsole.deps.json
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\bin\Debug\net6.0\project001_HelloConsole.runtimeconfig.json
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\bin\Debug\net6.0\project001_HelloConsole.dll
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\bin\Debug\net6.0\project001_HelloConsole.pdb
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.csproj.AssemblyReference.cache
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.AssemblyInfoInputs.cache
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.AssemblyInfo.cs
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.csproj.CoreCompileInputs.cache
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.dll
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\refint\project001_HelloConsole.dll
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.pdb
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\project001_HelloConsole.genruntimeconfig.cache
+F:\Ucoba\Prog_C#\Project_1\project001_HelloConsole\obj\Debug\net6.0\ref\project001_HelloConsole.dll
